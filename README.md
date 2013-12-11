@@ -17,4 +17,4 @@ The validation functions are...
 
 Integer($param, $min, $max, $default)
 Enumeration($param, $arrayOfAllowedValues, $default)
-Array($param, $validatorForArrayElements, $subValidatorParams, ...)
+Array($param, $validatorForArrayElements, $defaultArray, $subValidatorParams, ...)
