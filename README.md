@@ -1,7 +1,7 @@
 php-get-params
 ==============
 
-GET/POST/REQUEST/COOKIE parameter validation functions for PHP
+GET/POST/REQUEST/COOKIE parameter validation functions for PHP. These are designed primarily to ensure only safe values are seen by the rest of the code.
 
 Calls take the form...
 
